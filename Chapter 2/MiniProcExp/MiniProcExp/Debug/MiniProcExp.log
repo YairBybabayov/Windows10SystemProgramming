@@ -1,0 +1,4 @@
+﻿  MiniProcExp.cpp
+C:\Users\yairb\source\repo\Windows Programming\MiniProcExp\MiniProcExp\MiniProcExp.cpp(137,33): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\yairb\source\repo\Windows Programming\MiniProcExp\MiniProcExp\MiniProcExp.cpp(137,33): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  MiniProcExp.vcxproj -> C:\Users\yairb\source\repo\Windows Programming\MiniProcExp\Debug\MiniProcExp.exe

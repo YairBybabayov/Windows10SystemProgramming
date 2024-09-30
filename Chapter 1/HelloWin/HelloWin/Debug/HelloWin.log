@@ -1,0 +1,3 @@
+﻿  HelloWin.cpp
+C:\Users\yairb\source\repo\Windows Programming\HelloWin\HelloWin\HelloWin.cpp(68,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LARGE_INTEGER'
+  HelloWin.vcxproj -> C:\Users\yairb\source\repo\Windows Programming\HelloWin\Debug\HelloWin.exe

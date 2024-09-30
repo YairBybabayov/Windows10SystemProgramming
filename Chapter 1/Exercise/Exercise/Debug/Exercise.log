@@ -1,0 +1,3 @@
+﻿  Exercise.cpp
+C:\Users\yairb\source\repo\Windows Programming\Exercise\Exercise\Exercise.cpp(68,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LARGE_INTEGER'
+  Exercise.vcxproj -> C:\Users\yairb\source\repo\Windows Programming\Exercise\Debug\Exercise.exe

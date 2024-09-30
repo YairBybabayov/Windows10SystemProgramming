@@ -1,0 +1,7 @@
+﻿  EnvVer.cpp
+C:\Users\yairb\source\repo\Windows Programming\HelloWil\HelloWil\EnvVer.cpp(24,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+C:\Users\yairb\source\repo\Windows Programming\HelloWil\HelloWil\EnvVer.cpp(24,9): message : consider using '%ls' in the format string
+C:\Users\yairb\source\repo\Windows Programming\HelloWil\HelloWil\EnvVer.cpp(24,9): message : consider using '%lls' in the format string
+C:\Users\yairb\source\repo\Windows Programming\HelloWil\HelloWil\EnvVer.cpp(24,9): message : consider using '%Ls' in the format string
+C:\Users\yairb\source\repo\Windows Programming\HelloWil\HelloWil\EnvVer.cpp(24,9): message : consider using '%ws' in the format string
+  HelloWil.vcxproj -> C:\Users\yairb\source\repo\Windows Programming\HelloWil\Debug\HelloWil.exe

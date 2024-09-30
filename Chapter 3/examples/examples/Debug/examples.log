@@ -1,0 +1,3 @@
+﻿  examples.cpp
+C:\Users\yairb\source\repo\Windows10SystemProgramming\examples\examples\examples.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+  examples.vcxproj -> C:\Users\yairb\source\repo\Windows10SystemProgramming\examples\Debug\examples.exe
